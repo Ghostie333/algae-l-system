@@ -1,0 +1,8 @@
+# Liczba iteracji
+iter=7
+# Szerokość pliku wyjściowego bmp (0 automatycznie dostosuje szerokość pliku do długości glonów)
+width=0
+# Wysokość pliku wyjściowego bmp
+height=200
+# Rozmiar kroku rysowania
+step=20
