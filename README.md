@@ -62,20 +62,26 @@ A
 4. **Wizualizacja**: Program tworzy wizualizację wyników w formie graficznej.
 
 ### Rzuty ekranu
-#### Początkowy stan (Aksjomat)
-![Początkowy stan](glonyImg/glony_0_1.png)
 
-n = 0: A
-
-#### Po pierwszej iteracji
-![Pierwsza iteracja](glonyImg/glony_1_2.png)
-
-n = 1: AB
-
-#### Po czwartej iteracji
-![Czwarta iteracja](glonyImg/glony_4_8.png)
-
-n = 4: ABAABABA
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Początkowy stan (Aksjomat)</b><br />
+      <small>n = 0: A</small><br /><br />
+      <img src="glonyImg/glony_0_1.png" width="100%" alt="Początkowy stan" />
+    </td>
+    <td align="center" width="33%">
+      <b>Po pierwszej iteracji</b><br />
+      <small>n = 1: AB</small><br /><br />
+      <img src="glonyImg/glony_1_2.png" width="100%" alt="Pierwsza iteracja" />
+    </td>
+    <td align="center" width="33%">
+      <b>Po czwartej iteracji</b><br />
+      <small>n = 4: ABAABABA</small><br /><br />
+      <img src="glonyImg/glony_4_8.png" width="100%" alt="Czwarta iteracja" />
+    </td>
+  </tr>
+</table>
 
 ## 4. Lista dodatkowych bibliotek
 
